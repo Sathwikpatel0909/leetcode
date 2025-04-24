@@ -32,4 +32,20 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/Sathwikpatel0909/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/Sathwikpatel0909/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/Sathwikpatel0909/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/Sathwikpatel0909/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
