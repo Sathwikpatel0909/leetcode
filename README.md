@@ -54,4 +54,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
