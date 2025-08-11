@@ -14,10 +14,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sathwikpatel0909/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sathwikpatel0909/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
