@@ -9,12 +9,14 @@
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sathwikpatel0909/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sathwikpatel0909/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -32,6 +34,7 @@
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,4 +78,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
