@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Sathwikpatel0909/leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Sathwikpatel0909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
@@ -98,5 +99,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sathwikpatel0909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
