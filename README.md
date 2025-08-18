@@ -12,6 +12,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sathwikpatel0909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
+| [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
+| [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sathwikpatel0909/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sathwikpatel0909/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
