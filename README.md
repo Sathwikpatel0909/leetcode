@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/Sathwikpatel0909/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Sathwikpatel0909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Sathwikpatel0909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -103,10 +104,15 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sathwikpatel0909/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sathwikpatel0909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sathwikpatel0909/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
