@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sathwikpatel0909/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Sathwikpatel0909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +96,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Breadth-First Search
 |  |
@@ -121,4 +125,8 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
