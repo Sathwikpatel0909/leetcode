@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sathwikpatel0909/leetcode/tree/master/0200-number-of-islands) |
@@ -92,6 +93,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
@@ -124,6 +126,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
 ## Divide and Conquer
 |  |
