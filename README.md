@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +93,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sathwikpatel0909/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
