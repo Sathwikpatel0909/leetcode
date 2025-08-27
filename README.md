@@ -104,12 +104,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Sathwikpatel0909/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Sathwikpatel0909/leetcode/tree/master/0338-counting-bits) |
 ## Counting Sort
 |  |
 | ------- |
