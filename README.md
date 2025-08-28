@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sathwikpatel0909/leetcode/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Sathwikpatel0909/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -157,4 +159,8 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Sathwikpatel0909/leetcode/tree/master/0147-insertion-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
