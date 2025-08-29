@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sathwikpatel0909/leetcode/tree/master/0078-subsets) |
@@ -106,6 +107,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Sathwikpatel0909/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
@@ -162,5 +164,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
