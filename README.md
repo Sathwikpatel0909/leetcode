@@ -19,6 +19,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -51,6 +52,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
@@ -97,6 +100,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sathwikpatel0909/leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -166,4 +170,5 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
