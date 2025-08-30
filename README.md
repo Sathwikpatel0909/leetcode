@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Sathwikpatel0909/leetcode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sathwikpatel0909/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sathwikpatel0909/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Sathwikpatel0909/leetcode/tree/master/0147-insertion-sort-list) |
@@ -94,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sathwikpatel0909/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0287-find-the-duplicate-number) |
