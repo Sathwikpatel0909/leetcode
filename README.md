@@ -157,6 +157,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sathwikpatel0909/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Sathwikpatel0909/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Backtracking
 |  |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sathwikpatel0909/leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Sathwikpatel0909/leetcode/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
