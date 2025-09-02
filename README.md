@@ -22,6 +22,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sathwikpatel0909/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sathwikpatel0909/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -56,6 +57,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sathwikpatel0909/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -68,11 +70,13 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sathwikpatel0909/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathwikpatel0909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Sathwikpatel0909/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +111,7 @@
 | [0392-is-subsequence](https://github.com/Sathwikpatel0909/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sathwikpatel0909/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Sathwikpatel0909/leetcode/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -153,6 +158,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Sathwikpatel0909/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Sathwikpatel0909/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sathwikpatel0909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Design
 |  |
