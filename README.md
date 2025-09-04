@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sathwikpatel0909/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sathwikpatel0909/leetcode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
@@ -104,6 +105,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sathwikpatel0909/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sathwikpatel0909/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sathwikpatel0909/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Sathwikpatel0909/leetcode/tree/master/0088-merge-sorted-array) |
@@ -186,6 +188,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sathwikpatel0909/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sathwikpatel0909/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sathwikpatel0909/leetcode/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Sathwikpatel0909/leetcode/tree/master/0611-valid-triangle-number) |
